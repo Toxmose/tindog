@@ -58,3 +58,34 @@ h1 {
   width: 50%;
   transform: rotate(25deg);
 }
+
+/* features */
+
+#features h3 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+#features i {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+#features i:hover {
+  color: #ff4c68;
+}
+
+#features p {
+  color: #8f8f8f;
+  font-weight: bold;
+}
+
+#features .container-fluid {
+  /* padding: 100px 0; */
+  padding: 7% 0;
+  width: 50%;
+}
+
+.middle-feature {
+  padding: 0 20px;
+}
